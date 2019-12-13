@@ -30,7 +30,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="Header">React Wars</h1>
+      <h1 className="Header">React Star-Wars</h1>
 
     <div className="card">
       {charData.map((data, index) => {
